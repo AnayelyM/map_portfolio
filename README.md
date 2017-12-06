@@ -7,3 +7,4 @@ This is a map portfolio created for Geographic Information System class during F
 4. Suitability for New Training Center, New Training Center Vector Analysis.pdf:
 5. Suitability for New Training Center, New Training Center Raster Analysis.pdf:
 6. Nightime Service Areas of Hospitals in Atlanta, Atlanta Hospital Service Areas.pdf:
+7. Clarke County schools by population and poverty, Clarke schools by population and poverty.pdf:
